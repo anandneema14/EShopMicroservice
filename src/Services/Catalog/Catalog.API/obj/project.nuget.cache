@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "zNtkjlxWY6E=",
+  "dgSpecHash": "4DAmlH0Wdrc=",
   "success": true,
   "projectFilePath": "/Users/anandneema/RiderProjects/EShopMicroservice/src/Services/Catalog/Catalog.API/Catalog.API.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/anandneema/.nuget/packages/mediatr/12.4.1/mediatr.12.4.1.nupkg.sha512",
+    "/Users/anandneema/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/anandneema/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
