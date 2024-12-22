@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WUq2MWsCUFs=",
+  "success": true,
+  "projectFilePath": "/Users/anandneema/RiderProjects/EShopMicroservice/src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj",
+  "expectedPackageFiles": [
+    "/Users/anandneema/.nuget/packages/mediatr/12.4.1/mediatr.12.4.1.nupkg.sha512",
+    "/Users/anandneema/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/anandneema/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
