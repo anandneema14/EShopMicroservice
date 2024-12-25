@@ -3,3 +3,6 @@ global using Carter;
 //Mapster is used to map the domain objects
 global using Mapster;
 global using MediatR;
+global using BuildingBlocks.CQRS;
+global using Catalog.API.Models;
+global using Marten;
