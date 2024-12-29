@@ -4246,37 +4246,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ananeema\\.nuget\\packages\\": {}
+    "/Users/anandneema/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ananeema\\Source\\Repos\\anandneema14\\EShopMicroservice\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+      "projectUniqueName": "/Users/anandneema/RiderProjects/EShopMicroservice/src/Services/Catalog/Catalog.API/Catalog.API.csproj",
       "projectName": "Catalog.API",
-      "projectPath": "C:\\Users\\ananeema\\Source\\Repos\\anandneema14\\EShopMicroservice\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
-      "packagesPath": "C:\\Users\\ananeema\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ananeema\\Source\\Repos\\anandneema14\\EShopMicroservice\\src\\Services\\Catalog\\Catalog.API\\obj\\",
+      "projectPath": "/Users/anandneema/RiderProjects/EShopMicroservice/src/Services/Catalog/Catalog.API/Catalog.API.csproj",
+      "packagesPath": "/Users/anandneema/.nuget/packages/",
+      "outputPath": "/Users/anandneema/RiderProjects/EShopMicroservice/src/Services/Catalog/Catalog.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ananeema\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/anandneema/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.pkg.github.com/Deloitte-US-Tax/index.json": {},
-        "https://pkgs.dev.azure.com/deloittebsg/_packaging/APP1721/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ananeema\\Source\\Repos\\anandneema14\\EShopMicroservice\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj": {
-              "projectPath": "C:\\Users\\ananeema\\Source\\Repos\\anandneema14\\EShopMicroservice\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj"
+            "/Users/anandneema/RiderProjects/EShopMicroservice/src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj": {
+              "projectPath": "/Users/anandneema/RiderProjects/EShopMicroservice/src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj"
             }
           }
         }
@@ -4324,7 +4319,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
