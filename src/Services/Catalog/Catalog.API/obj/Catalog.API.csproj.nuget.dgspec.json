@@ -43,10 +43,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Carter": {
-              "target": "Package",
-              "version": "[8.2.1, )"
-            },
             "Mapster": {
               "target": "Package",
               "version": "[7.4.1-pre01, )"
@@ -119,6 +115,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Carter": {
+              "target": "Package",
+              "version": "[8.2.1, )"
+            },
             "Marten": {
               "target": "Package",
               "version": "[7.34.1, )"
